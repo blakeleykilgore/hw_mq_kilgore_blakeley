@@ -1,3 +1,18 @@
 body {
     background-color: #90d3bf;
 }
+@media screen and (min-width: 675px) {
+    body {
+        background-color: #bdecae;
+    }
+}
+@media screen and (min-width: 999px) {
+    body {
+        background-color: #84ffad;
+    }
+}
+@media screen and (min-width: 1280px) {
+    body {
+        background-color: #fbeca8;
+    }
+}
